@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "793140568823",
+    "firebase_url": "https://nearlogin.firebaseio.com",
+    "project_id": "nearlogin",
+    "storage_bucket": "nearlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793140568823:android:e68095b9aa2dfa8e",
+        "android_client_info": {
+          "package_name": "org.techtown.nearlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793140568823-v3heeuha198q9hldl96e728bkd0actrd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.techtown.nearlogin",
+            "certificate_hash": "35829b3705bff8b2bebcc7ab378a528e81891fdc"
+          }
+        },
+        {
+          "client_id": "793140568823-4agephdft74be5hb3j0phe4b61g8dqcn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "793140568823-4agephdft74be5hb3j0phe4b61g8dqcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsuQrO7q8k0ssdlwzuprSN4NWQwx4DQM0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "793140568823-4agephdft74be5hb3j0phe4b61g8dqcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
